@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "0.1.7",
-  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.7/Stint-v0.1.7.apk",
-  "apkApiUrl": "https://api.github.com/repos/Snyycq/stint-updates/releases/assets/720217875",
-  "notes": "更新包改由 App 自己下载：优先走 api.github.com 的资产通道（国内可达），失败再退回网页下载地址。下载时有进度条、可以取消，下完自动拉起安装。"
+  "versionCode": 9,
+  "versionName": "0.1.8",
+  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.8/Stint-v0.1.8.apk",
+  "apkApiUrl": "https://api.github.com/repos/Snyycq/stint-updates/releases/assets/720259558",
+  "notes": "统计页接上钱：新增「本月/本周/今天/累计进账」卡片，按天一根柱子，标出工作日和休息日，并给出本月预计收入。"
 }
