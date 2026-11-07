@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "0.1.5",
-  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.5/Stint-v0.1.5.apk",
-  "notes": "修好自动更新：检查更新的地址改走 api.github.com，不再依赖在国内会被重置的 raw.githubusercontent.com。另外新增「今日进账」，工作日按钟点自动涨工资。"
+  "versionCode": 7,
+  "versionName": "0.1.6",
+  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.6/Stint-v0.1.6.apk",
+  "notes": "修两处：跨零点的记录按天切开，23:30 开始的一段不再整天算进前一天，忘停的计时也不会把今天显示成 0；更新检查改成每次回到前台自动查，统计页底部新增「检查更新」，手动检查会明确告诉你是已最新还是连不上网络。"
 }
