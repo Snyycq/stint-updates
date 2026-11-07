@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.2/Stint-v0.1.2.apk",
-  "notes": "空态可以直接点常用事项开始计时；「删除」改为从首页移除，历史记录一条不删，移除后还能撤销。"
+  "versionCode": 5,
+  "versionName": "0.1.4",
+  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.4/Stint-v0.1.4.apk",
+  "notes": "首页新增「今日进账」：填好月薪、每月工作日和上下班时间，工作日一到点钱就按钟点自己涨，下班停在日薪上；休息日提示下一班几点开工。"
 }
