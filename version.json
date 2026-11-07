@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.4/Stint-v0.1.4.apk",
-  "notes": "首页新增「今日进账」：填好月薪、每月工作日和上下班时间，工作日一到点钱就按钟点自己涨，下班停在日薪上；休息日提示下一班几点开工。"
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.5/Stint-v0.1.5.apk",
+  "notes": "修好自动更新：检查更新的地址改走 api.github.com，不再依赖在国内会被重置的 raw.githubusercontent.com。另外新增「今日进账」，工作日按钟点自动涨工资。"
 }
