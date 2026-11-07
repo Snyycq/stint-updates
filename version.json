@@ -1,6 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.6",
-  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.6/Stint-v0.1.6.apk",
-  "notes": "修两处：跨零点的记录按天切开，23:30 开始的一段不再整天算进前一天，忘停的计时也不会把今天显示成 0；更新检查改成每次回到前台自动查，统计页底部新增「检查更新」，手动检查会明确告诉你是已最新还是连不上网络。"
+  "versionCode": 8,
+  "versionName": "0.1.7",
+  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.7/Stint-v0.1.7.apk",
+  "apkApiUrl": "https://api.github.com/repos/Snyycq/stint-updates/releases/assets/720217875",
+  "notes": "更新包改由 App 自己下载：优先走 api.github.com 的资产通道（国内可达），失败再退回网页下载地址。下载时有进度条、可以取消，下完自动拉起安装。"
 }
