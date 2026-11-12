@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.9",
-  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.9/Stint-v0.1.9.apk",
-  "apkApiUrl": "https://api.github.com/repos/Snyycq/stint-updates/releases/assets/739542507",
-  "notes": "统计页时间流水支持长按编辑：修改开始/结束时间、删除单条记录；跨零点自动按次日处理，进行中的记录可先改开始时间。"
+  "versionCode": 11,
+  "versionName": "0.2.0",
+  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.2.0/Stint-v0.2.0.apk",
+  "apkApiUrl": "https://api.github.com/repos/Snyycq/stint-updates/releases/assets/739629695",
+  "notes": "新增「值当」页：记下买过的东西，自动算日均；支持添加、编辑、删除，底部新增第三个 tab。"
 }
