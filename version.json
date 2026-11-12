@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "0.1.8",
-  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.8/Stint-v0.1.8.apk",
-  "apkApiUrl": "https://api.github.com/repos/Snyycq/stint-updates/releases/assets/720259558",
-  "notes": "统计页接上钱：新增「本月/本周/今天/累计进账」卡片，按天一根柱子，标出工作日和休息日，并给出本月预计收入。"
+  "versionCode": 10,
+  "versionName": "0.1.9",
+  "apkUrl": "https://github.com/Snyycq/stint-updates/releases/download/v0.1.9/Stint-v0.1.9.apk",
+  "apkApiUrl": "https://api.github.com/repos/Snyycq/stint-updates/releases/assets/739542507",
+  "notes": "统计页时间流水支持长按编辑：修改开始/结束时间、删除单条记录；跨零点自动按次日处理，进行中的记录可先改开始时间。"
 }
